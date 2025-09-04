@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spring Shopping XML</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_main_fragment">Hello Main fragment</string>
+</resources>
