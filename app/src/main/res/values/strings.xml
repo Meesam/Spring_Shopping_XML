@@ -2,4 +2,29 @@
     <string name="app_name">Spring Shopping XML</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_main_fragment">Hello Main fragment</string>
+    <string name="login_in">Login In</string>
+    <string name="login_into_registerd_account">Login into registerd account</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login_fragmant">Login Fragmant</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or_using_other_method">Or Using other method</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="sign_in_with_facebook">Sign In with Facebook</string>
+    <string name="don_t_have_an_account">Don\'t have an account?<font color="#FF514EB7"> Register</font></string>
+    <string name="register">Create Account</string>
+    <string name="register_for_new_account">Register for new account</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account">Already have an account?<font color="#FF514EB7"> Login</font></string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="valid_email_text">Please enter a valid email</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
