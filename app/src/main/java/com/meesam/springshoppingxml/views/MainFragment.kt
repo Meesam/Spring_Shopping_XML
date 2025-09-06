@@ -11,7 +11,6 @@ import com.meesam.springshoppingxml.R
 import com.meesam.springshoppingxml.databinding.FragmentMainBinding
 
 class MainFragment : Fragment() {
-
     private lateinit var binding: FragmentMainBinding
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
